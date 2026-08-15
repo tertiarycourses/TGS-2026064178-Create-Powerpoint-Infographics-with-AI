@@ -1,0 +1,6 @@
+Stage,CustomerAction,Minutes,CO2kg
+Order confirmed,Submit basket,1,0.02
+Inventory reserved,Receive confirmation,4,0.05
+Route optimised,View delivery window,8,0.09
+Low-emission delivery,Receive parcel,45,0.34
+Feedback,Rate experience,3,0.01

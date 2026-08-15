@@ -1,0 +1,6 @@
+Metric,BaseCase,Downside,Upside,Unit
+Pilot budget,240000,240000,240000,SGD
+Gross margin,18,12,23,pct
+Retailers,3,2,4,count
+Customers reached,18000,12000,25000,count
+EV delivery share,74,62,82,pct

@@ -1,0 +1,6 @@
+Stage,Verb,Owner,TargetMinutes
+1,Confirm order,Commerce,1
+2,Reserve stock,Operations,4
+3,Optimise route,Logistics,8
+4,Deliver order,Driver,45
+5,Collect feedback,Experience,3
