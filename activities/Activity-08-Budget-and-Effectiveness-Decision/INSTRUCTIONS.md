@@ -1,9 +1,9 @@
 # Activity 08 — Budget and Effectiveness Decision
 
-**Course:** Infographics and Data Visualization with PowerPoint (TGS-2024048310)  
-**Duration:** 30 minutes  
-**Tools:** Excel scorecard + PowerPoint  
-**Output:** Formula-driven scorecard, 12-month resource recommendation and decision slide
+- **Course:** Infographics and Data Visualization with PowerPoint (TGS-2026064178)
+- **Duration:** 30 minutes
+- **Tools:** Excel scorecard + PowerPoint
+- **Output:** Formula-driven scorecard, 12-month resource recommendation and decision slide
 
 ## Objective
 
@@ -11,12 +11,12 @@ Compare infographic-tool investment options and recommend a resource plan using 
 
 ## Scenario
 
-Northstar can fund one standard workflow for 12 staff. Options include PowerPoint templates only, PowerPoint with Copilot, or a mixed workflow using external design tools plus PowerPoint for final production.
+Northstar can fund one standard workflow for 12 staff. Options include PowerPoint templates only, PowerPoint with Copilot, Gemini Notebook with PowerPoint, or a mixed AI workflow with PowerPoint as the controlled final-production layer.
 Use the supplied budget workbook and effectiveness evidence to recommend a 12-month tool, training and governance plan aligned with business outcomes.
 
 ## Detailed instructions
 
-1. **Open the options workbook.** Open A08-Tool-Investment-Scorecard.xlsx and review Assumptions, Options, Scorecard and Recommendation.
+1. **Open the options workbook.** Open A08-Budget-and-Effectiveness-Decision-Data.xlsx and review Assumptions, Options, Scorecard and Recommendation.
 
 2. **Confirm the business need.** Record the number of users, infographic volume, required channels, approved data classification and business outcome.
 
@@ -24,7 +24,7 @@ Use the supplied budget workbook and effectiveness evidence to recommend a 12-mo
 
 4. **Set decision weights.** Use the supplied weights or adjust them with a written rationale. Keep effectiveness and hard governance gates visible.
 
-5. **Score each workflow.** Score PowerPoint templates, PowerPoint + Copilot and Mixed external tools + PowerPoint using the same scale and evidence.
+5. **Score each workflow.** Score PowerPoint templates, PowerPoint + Copilot, Gemini Notebook + PowerPoint and Mixed AI tools + PowerPoint using the same scale and evidence.
 
 6. **Test hard gates.** Mark any option that fails data handling, rights, editability, accessibility or continuity as Not eligible regardless of weighted score.
 
@@ -32,7 +32,7 @@ Use the supplied budget workbook and effectiveness evidence to recommend a 12-mo
 
 8. **Write the recommendation.** In the Recommendation sheet name the preferred workflow, 12-month budget, training plan, governance controls, owner, success metrics and review date.
 
-9. **Create the decision slide.** Open A08-Investment-Decision-Start.pptx and add a native comparison chart, key trade-offs and one explicit recommendation.
+9. **Create the decision slide.** Open A08-Budget-and-Effectiveness-Decision-Start.pptx and add a native comparison chart, key trade-offs and one explicit recommendation.
 
 10. **Challenge the decision.** Ask which evidence could reverse the choice. Record the trigger and the date for the formal review.
 
@@ -44,9 +44,16 @@ Use the supplied budget workbook and effectiveness evidence to recommend a 12-mo
 - 6 minutes — Write recommendation and decision slide
 - 2 minutes — Challenge and submit
 
+## Included inputs and assets
+
+- Synthetic CSV and formula-enabled XLSX mock data
+- Editable PowerPoint start and worked-example files
+- PROMPTS.md with copy-ready data-analysis, infographic, Gemini Notebook and text-to-image prompts
+- AI Prompt Lab worksheet for provenance and human-change records
+
 ## Submission
 
-Submit the editable PPTX, completed XLSX, source CSV and checklist. Record any AI tool, prompt, source and material human change.
+Submit the editable PPTX, completed XLSX, source CSV, prompt/source log, used assets and checklist. Record every AI tool, prompt, source, rejected claim and material human change.
 
 ## Debrief
 

@@ -1,4 +1,4 @@
-# Activity 04 Checklist — Create a Shape, Icon and SmartArt System
+# Activity 04 Checklist — Generate Visual Assets and Refine Them in PowerPoint
 
 Name / Group: ____________________    Date: ____________________
 

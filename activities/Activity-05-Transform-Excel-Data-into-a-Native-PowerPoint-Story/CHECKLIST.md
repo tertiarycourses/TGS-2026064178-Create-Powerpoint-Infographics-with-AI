@@ -1,4 +1,4 @@
-# Activity 05 Checklist — Transform Excel Data into a Native PowerPoint Story
+# Activity 05 Checklist — Use AI Analysis to Build a Native PowerPoint Data Story
 
 Name / Group: ____________________    Date: ____________________
 

@@ -1,9 +1,9 @@
 # Activity 07 — Peer Coaching and Story Review
 
-**Course:** Infographics and Data Visualization with PowerPoint (TGS-2024048310)  
-**Duration:** 30 minutes  
-**Tools:** PowerPoint + peer review workbook  
-**Output:** Peer-review log, revised infographic and 150-250 word reflection
+- **Course:** Infographics and Data Visualization with PowerPoint (TGS-2026064178)
+- **Duration:** 30 minutes
+- **Tools:** PowerPoint + peer review workbook
+- **Output:** Peer-review log, revised infographic and 150-250 word reflection
 
 ## Objective
 
@@ -22,7 +22,7 @@ Capture two observations, two strengths, two improvements and one agreed revisio
 
 3. **Run the five-second test.** Show the slide for five seconds, then hide it. The audience representative states the message, evidence and intended action they remember.
 
-4. **Record observations.** In A07-Peer-Review-Log.xlsx capture visible facts only: reading order, text size, labels, contrast, source, chart comprehension and action clarity.
+4. **Record observations.** In A07-Peer-Coaching-and-Story-Review-Data.xlsx capture visible facts only: reading order, text size, labels, contrast, source, chart comprehension and action clarity.
 
 5. **Ask clarifying questions.** The reviewer asks which audience, message, evidence and constraint drove the design. The designer answers without dismissing the observation.
 
@@ -42,9 +42,16 @@ Capture two observations, two strengths, two improvements and one agreed revisio
 - 5 minutes — Retest
 - 2 minutes — Save reflection
 
+## Included inputs and assets
+
+- Synthetic CSV and formula-enabled XLSX mock data
+- Editable PowerPoint start and worked-example files
+- PROMPTS.md with copy-ready data-analysis, infographic, Gemini Notebook and text-to-image prompts
+- AI Prompt Lab worksheet for provenance and human-change records
+
 ## Submission
 
-Submit the editable PPTX, completed XLSX, source CSV and checklist. Record any AI tool, prompt, source and material human change.
+Submit the editable PPTX, completed XLSX, source CSV, prompt/source log, used assets and checklist. Record every AI tool, prompt, source, rejected claim and material human change.
 
 ## Debrief
 

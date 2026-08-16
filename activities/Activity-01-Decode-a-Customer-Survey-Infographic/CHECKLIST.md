@@ -1,4 +1,4 @@
-# Activity 01 Checklist — Decode a Customer Survey Infographic
+# Activity 01 Checklist — Use AI to Clean Data and Extract Insights
 
 Name / Group: ____________________    Date: ____________________
 

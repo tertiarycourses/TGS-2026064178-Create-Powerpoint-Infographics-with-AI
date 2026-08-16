@@ -1,9 +1,9 @@
 # Activity 03 — Build from Microsoft Infographic Maker
 
-**Course:** Infographics and Data Visualization with PowerPoint (TGS-2024048310)  
-**Duration:** 40 minutes  
-**Tools:** Microsoft Infographic Maker + PowerPoint  
-**Output:** Editable template-based portrait infographic plus PDF and JPG exports
+- **Course:** Infographics and Data Visualization with PowerPoint (TGS-2026064178)
+- **Duration:** 40 minutes
+- **Tools:** Microsoft 365 Copilot infographic maker + PowerPoint
+- **Output:** Editable template-based portrait infographic plus PDF and JPG exports
 
 ## Objective
 
@@ -24,7 +24,7 @@ Start from a Microsoft infographic-maker template or the supplied editable sampl
 
 4. **Audit every placeholder.** Use Home > Select > Selection Pane. Rename major objects and identify all placeholder text, images, icons, charts, logos and decorative shapes.
 
-5. **Replace the message.** Insert the approved five-stage delivery content from A03-Template-Data.xlsx. Delete any template section that has no role in the story.
+5. **Replace the message.** Insert the approved five-stage delivery content from A03-Build-from-Microsoft-Infographic-Maker-Data.xlsx. Delete any template section that has no role in the story.
 
 6. **Apply the approved style.** Use Design > Variants > Colors and Fonts or apply the supplied palette manually. Keep one heading font, one body font and consistent stage colours.
 
@@ -42,9 +42,16 @@ Start from a Microsoft infographic-maker template or the supplied editable sampl
 - 7 minutes — Accessibility and export
 - 3 minutes — Save and submit
 
+## Included inputs and assets
+
+- Synthetic CSV and formula-enabled XLSX mock data
+- Editable PowerPoint start and worked-example files
+- PROMPTS.md with copy-ready data-analysis, infographic, Gemini Notebook and text-to-image prompts
+- AI Prompt Lab worksheet for provenance and human-change records
+
 ## Submission
 
-Submit the editable PPTX, completed XLSX, source CSV and checklist. Record any AI tool, prompt, source and material human change.
+Submit the editable PPTX, completed XLSX, source CSV, prompt/source log, used assets and checklist. Record every AI tool, prompt, source, rejected claim and material human change.
 
 ## Debrief
 

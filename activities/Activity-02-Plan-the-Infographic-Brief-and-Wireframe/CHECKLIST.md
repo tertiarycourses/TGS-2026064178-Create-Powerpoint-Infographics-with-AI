@@ -1,4 +1,4 @@
-# Activity 02 Checklist — Plan the Infographic Brief and Wireframe
+# Activity 02 Checklist — Prompt an Evidence-Led Infographic Brief
 
 Name / Group: ____________________    Date: ____________________
 

@@ -1,40 +1,44 @@
-# Activity 05 — Transform Excel Data into a Native PowerPoint Story
+# Activity 05 — Use AI Analysis to Build a Native PowerPoint Data Story
 
-**Course:** Infographics and Data Visualization with PowerPoint (TGS-2024048310)  
-**Duration:** 45 minutes  
-**Tools:** Excel + native PowerPoint chart  
-**Output:** Formula-driven workbook, native editable chart and annotated decision slide
+- **Course:** Infographics and Data Visualization with PowerPoint (TGS-2026064178)
+- **Duration:** 45 minutes
+- **Tools:** Approved AI assistant + Excel + native PowerPoint chart
+- **Output:** Formula-driven workbook, native editable chart and annotated decision slide
 
 ## Objective
 
-Select metrics, create a native editable chart and annotate the decision insight with source context.
+Use ai to clean and analyse mock excel data, verify calculations, then create a native editable chart and decision story in powerpoint.
 
 ## Scenario
 
 Northstar's marketing team must choose one product family for the next promotion. The supplied workbook contains monthly revenue, units, margin and returns for four categories.
-Create an editable PowerPoint chart that combines the right metric with an explicit decision implication. Do not paste a screenshot-only chart.
+Prompt an approved AI assistant to analyse the workbook and propose candidate insights. Reproduce the selected calculations in Excel, then create an editable PowerPoint chart with an explicit decision implication.
 
 ## Detailed instructions
 
-1. **Open and validate the workbook.** Open A05-Product-Promotion-Data.xlsx. Review Raw Data, Analysis and Source Notes. Change one input value and confirm formulas update without errors.
+1. **Open and validate the workbook.** Open the A05 XLSX. Review Data, Analysis, Source Notes and AI Prompt Lab. Change one input value and confirm formulas update without errors.
 
-2. **Define the decision metric.** On Analysis compare revenue, growth, margin and returns. In the yellow Decision question cell state which product family to promote and the minimum evidence required.
+2. **Run the analysis prompt.** Ask an approved AI assistant to flag data-quality issues, compare revenue, growth, margin and returns, calculate candidate metrics and provide citations to the relevant rows. Require no invented values.
 
-3. **Choose the chart.** Use a clustered bar for category comparison or a line for change over time. Explain why the chosen chart reveals the relationship better than a pie or 3-D chart.
+3. **Verify every calculation.** Reproduce the selected growth, totals, averages and comparisons with Excel formulas. Record any rejected AI claim and why.
 
-4. **Create the Excel chart.** Select the prepared Analysis range, choose Insert > Recommended Charts, select the intended chart, and add a precise chart title.
+4. **Define the decision metric.** State which product family to promote and the minimum evidence required. Separate observed patterns from hypotheses and caveats.
 
-5. **Paste as a native chart.** Copy the chart. In PowerPoint choose Home > Paste > Use Destination Theme & Embed Workbook or Keep Source Formatting & Link Data. Do not paste as a picture.
+5. **Choose the chart.** Use a clustered bar for category comparison or a line for change over time. Explain why the chart reveals the relationship better than a pie or 3-D chart.
 
-6. **Remove chart junk.** Use Chart Design > Add Chart Element. Keep only necessary axes, direct labels and a short title. Remove background fills, 3-D effects, unnecessary gridlines and legends.
+6. **Create the Excel chart.** Select the prepared Analysis range, choose Insert > Recommended Charts, select the intended chart, and add a precise chart title.
 
-7. **Write the action title.** Replace the topic title with a sentence that states the supported conclusion, for example Ready Meals combine the fastest Q2 growth with above-floor margin.
+7. **Paste as a native chart.** Copy the chart. In PowerPoint choose Home > Paste > Use Destination Theme & Embed Workbook or Keep Source Formatting & Link Data. Do not paste as a picture.
 
-8. **Highlight the decision.** Use one accent colour for the selected category. Keep all comparison categories neutral and add one concise annotation.
+8. **Remove chart junk.** Use Chart Design > Add Chart Element. Keep only necessary axes, direct labels and a short title. Remove background fills, 3-D effects, unnecessary gridlines and legends.
 
-9. **Add source and limitation.** Show Synthetic Northstar data, Jan-Jun 2026 and one relevant caveat such as promotional seasonality or return-rate uncertainty.
+9. **Write the action title.** Replace the topic title with a sentence that states the supported conclusion, for example Ready Meals combine the fastest Q2 growth with above-floor margin.
 
-10. **Test refresh.** Change one workbook input, save it, refresh or repaste the chart as appropriate, and confirm the PowerPoint visual updates correctly.
+10. **Highlight the decision.** Use one accent colour for the selected category. Keep all comparison categories neutral and add one concise annotation.
+
+11. **Add source and limitation.** Show Synthetic Northstar data, Jan-Jun 2026 and one relevant caveat such as promotional seasonality or return-rate uncertainty.
+
+12. **Test refresh and log.** Change one workbook input, refresh the chart and confirm the visual updates. Complete the AI prompt/source log with tool, prompt, output, verification and owner.
 
 ## Suggested timing
 
@@ -44,9 +48,16 @@ Create an editable PowerPoint chart that combines the right metric with an expli
 - 8 minutes — Write insight, source and limitation
 - 4 minutes — Refresh test and submit
 
+## Included inputs and assets
+
+- Synthetic CSV and formula-enabled XLSX mock data
+- Editable PowerPoint start and worked-example files
+- PROMPTS.md with copy-ready data-analysis, infographic, Gemini Notebook and text-to-image prompts
+- AI Prompt Lab worksheet for provenance and human-change records
+
 ## Submission
 
-Submit the editable PPTX, completed XLSX, source CSV and checklist. Record any AI tool, prompt, source and material human change.
+Submit the editable PPTX, completed XLSX, source CSV, prompt/source log, used assets and checklist. Record every AI tool, prompt, source, rejected claim and material human change.
 
 ## Debrief
 

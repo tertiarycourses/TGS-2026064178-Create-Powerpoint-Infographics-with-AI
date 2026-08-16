@@ -1,38 +1,38 @@
-# Activity 01 — Decode a Customer Survey Infographic
+# Activity 01 — Use AI to Clean Data and Extract Insights
 
-**Course:** Infographics and Data Visualization with PowerPoint (TGS-2024048310)  
-**Duration:** 35 minutes  
-**Tools:** PowerPoint + Excel  
-**Output:** Annotated insight slide, editable PPTX and completed checklist
+- **Course:** Infographics and Data Visualization with PowerPoint (TGS-2026064178)
+- **Duration:** 35 minutes
+- **Tools:** Approved AI assistant + Excel + PowerPoint
+- **Output:** Annotated insight slide, editable PPTX and completed checklist
 
 ## Objective
 
-Extract defensible insights from a statistical infographic and connect them to a business action.
+Use ai to organise and clean approved mock sources, then verify and convert candidate patterns into defensible business insights.
 
 ## Scenario
 
 Northstar Retail's marketing lead has a one-page customer survey infographic built from 420 synthetic Q2 responses. Leadership wants to know which customer experience deserves further investigation.
-Use the supplied CSV, workbook and sample deck to separate observations from interpretations and recommend one next step without overstating the evidence.
+Use an approved AI assistant with the supplied CSV, workbook and source notes to produce a clean analysis and candidate insights. Verify every number in Excel before recommending one next step.
 
 ## Detailed instructions
 
-1. **Open the evidence pack.** Open A01-Customer-Pulse-Data.xlsx and review the Data, Definitions and Checks sheets. Confirm the survey period, sample size, units and segment names before interpreting a chart.
+1. **Register the sources.** Open the A01 XLSX, CSV and Source Notes sheet. In the AI Prompt Lab record each source, its period, data status, owner and permitted use before uploading anything.
 
-2. **Open the sample presentation.** Open A01-Customer-Pulse-Start.pptx. Save a working copy as A01-<YourName>-Customer-Pulse.pptx.
+2. **Preserve the raw data.** Save a named working copy. Do not modify or replace the raw CSV; perform cleanup on a separate worksheet or in an approved AI session.
 
-3. **Read the visual literally.** On the first slide, write three observations that use visible values only. Use comparison language such as higher, lower, largest gap or changed by; do not use causal language.
+3. **Run the data-cleaning prompt.** Copy the Data analyst prompt from PROMPTS.md. Ask the AI to flag duplicates, missing values, inconsistent labels, units and periods and to describe every proposed transformation. Require no invented values.
 
-4. **Check the denominator.** Return to the workbook and compare segment response counts. Note any segment whose smaller base makes the percentage less stable.
+4. **Verify the cleanup.** Compare the AI response with the raw CSV. Apply only justified changes in the workbook, retain a before/after note and confirm the response count remains 420.
 
-5. **Write the insight chain.** Complete the four labelled boxes: What it shows; What it may mean; Why it matters; What action is justified.
+5. **Ask for candidate insights.** Request the largest, smallest, gap, exception and competing explanation. Require each candidate insight to cite the exact rows or source fields used.
 
-6. **Add one annotation.** In PowerPoint select Insert > Shapes > Callouts. Point the callout at the strongest pattern and enter a short direct label.
+6. **Reproduce the calculations.** Use the Analysis sheet and Excel formulas to reproduce every critical difference or percentage. Reject any AI claim that cannot be reproduced.
 
-7. **Add source context.** Add a footer line containing Synthetic Northstar Retail data, Q2 2026, n=420. Keep it readable without competing with the insight.
+7. **Write the insight chain.** Complete What it shows; What it may mean; Why it matters; What action is justified. Add one caveat or confidence note.
 
-8. **Self-check the claim.** Ask whether a sceptical reader could reproduce the statement from the workbook. Replace any unsupported cause-and-effect wording.
+8. **Build the PowerPoint evidence.** Open the A01 start PPTX, save a working copy, add one editable annotation and show Synthetic Northstar Retail data, Q2 2026, n=420 in the source footer.
 
-9. **Submit the evidence.** Save the PPTX and update CHECKLIST.md. Keep the CSV and workbook in the folder as the traceable evidence pack.
+9. **Complete the prompt log.** Record the AI tool, full prompt, approved inputs, output reviewed, rejected claims, human changes, reviewer and final owner.
 
 ## Suggested timing
 
@@ -42,9 +42,16 @@ Use the supplied CSV, workbook and sample deck to separate observations from int
 - 7 minutes — Peer challenge and revision
 - 3 minutes — Save and submit
 
+## Included inputs and assets
+
+- Synthetic CSV and formula-enabled XLSX mock data
+- Editable PowerPoint start and worked-example files
+- PROMPTS.md with copy-ready data-analysis, infographic, Gemini Notebook and text-to-image prompts
+- AI Prompt Lab worksheet for provenance and human-change records
+
 ## Submission
 
-Submit the editable PPTX, completed XLSX, source CSV and checklist. Record any AI tool, prompt, source and material human change.
+Submit the editable PPTX, completed XLSX, source CSV, prompt/source log, used assets and checklist. Record every AI tool, prompt, source, rejected claim and material human change.
 
 ## Debrief
 

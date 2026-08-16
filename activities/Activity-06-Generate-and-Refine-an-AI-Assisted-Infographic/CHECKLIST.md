@@ -1,14 +1,14 @@
-# Activity 06 Checklist — Generate and Refine an AI-Assisted Infographic
+# Activity 06 Checklist — Compare Microsoft 365 Copilot and Gemini Notebook
 
 Name / Group: ____________________    Date: ____________________
 
 Tick each item before submission:
 
-- [ ] Prompt names audience, objective, data and constraints
-- [ ] Every claim matches the source workbook
-- [ ] Critical evidence is editable
-- [ ] Privacy, rights, brand and accessibility are checked
-- [ ] Prompt, human changes, reviewer and owner are recorded
+- [ ] Both tools used the same approved brief and source scope
+- [ ] Gemini Notebook deck was preserved as PPTX where available or PDF with a documented rebuild route
+- [ ] Every claim matches the source pack
+- [ ] Critical evidence is editable in the final PowerPoint
+- [ ] Both prompts, human changes, reviewer and owner are recorded
 - [ ] Synthetic data is not presented as real operational evidence.
 - [ ] AI tools, prompts, sources and material human changes are recorded.
 - [ ] CSV, XLSX and PPTX files open correctly and retain editability.

@@ -1,38 +1,38 @@
-# Activity 02 — Plan the Infographic Brief and Wireframe
+# Activity 02 — Prompt an Evidence-Led Infographic Brief
 
-**Course:** Infographics and Data Visualization with PowerPoint (TGS-2024048310)  
-**Duration:** 35 minutes  
-**Tools:** PowerPoint + Excel  
-**Output:** Portrait infographic brief, low-fidelity wireframe and design rationale
+- **Course:** Infographics and Data Visualization with PowerPoint (TGS-2026064178)
+- **Duration:** 35 minutes
+- **Tools:** Approved AI assistant + PowerPoint
+- **Output:** Portrait infographic brief, low-fidelity wireframe and design rationale
 
 ## Objective
 
-Select an infographic type and build a low-fidelity wireframe from an audience question and curated evidence.
+Turn verified insights into a structured ai brief and prompt that controls audience, message, evidence, form and output.
 
 ## Scenario
 
 Northstar plans a sustainable-delivery campaign. The communication manager needs a portrait infographic showing the customer journey from order to low-emission delivery.
-Create a wireframe that can later be built manually, from a Microsoft infographic template or with AI assistance without changing the approved message.
+Use the supplied prompt workbook to ask AI for two wireframe directions. Select one by evidence fit, then preserve it as the control brief for Microsoft 365 Copilot, Gemini Notebook or PowerPoint.
 
 ## Detailed instructions
 
-1. **Open the brief template.** Open A02-Infographic-Brief-and-Wireframe.pptx and save a working copy.
+1. **Open the brief and prompt pack.** Open the A02 workbook, PROMPTS.md and start PPTX. Save named working copies and select only the verified A01 insight chain as input.
 
-2. **Write the audience question.** In the Brief slide complete Audience, Business question, Desired action and Success evidence in one sentence each.
+2. **Define the control brief.** Complete Audience, Business question, Desired action, Success evidence, approved claims, forbidden claims, output channel and owner.
 
-3. **Open the data pack.** Review A02-Sustainable-Delivery-Data.xlsx and its Definitions sheet. Mark the five stages and the one metric that matters at each stage.
+3. **Choose the infographic form.** Select timeline, process, comparison, statistical, hierarchy or hybrid. Explain why it reveals the relationship better than two alternatives.
 
-4. **Choose the infographic form.** Select timeline, process, comparison, statistical, hierarchy or hybrid. In the rationale box explain why it reveals the relationship better than two alternatives.
+4. **Write the structured prompt.** Use the prompt anatomy in the workbook: role, audience, objective, approved evidence, hierarchy, format, brand, accessibility, constraints and output.
 
-5. **Set the portrait canvas.** Choose Design > Slide Size > Custom Slide Size. Set Slides sized for to Custom, Width 21 cm and Height 29.7 cm, select Portrait, then choose Ensure Fit.
+5. **Request two directions.** Ask the approved AI tool for two low-fidelity wireframe directions. Require labelled content zones, source space and no invented data or imagery.
 
-6. **Turn on layout aids.** Choose View > Ruler, View > Gridlines and View > Guides. Add guides so the page has equal left and right margins and three clear content zones.
+6. **Score the directions.** Compare both options for question fit, hierarchy, evidence space, reading order, accessibility and ease of PowerPoint refinement.
 
-7. **Sketch with placeholders.** Use Insert > Shapes to create only the title, context, evidence blocks, connectors, action and source area. Use grey fills and short placeholder labels; do not style the final design yet.
+7. **Build the approved wireframe.** In PowerPoint set a portrait canvas, turn on guides and recreate only the selected direction with editable grey placeholders.
 
 8. **Test the reading path.** Zoom to 25 percent. Ask a peer to point to first, second and last. Move or simplify blocks until the intended order is consistent.
 
-9. **Record the wireframe decision.** On the Notes slide capture the chosen form, removed content, intended channel and accessibility risks.
+9. **Record the decision.** Capture the chosen direction, rejected option, prompt, removed content, intended channel, accessibility risks, reviewer and owner.
 
 ## Suggested timing
 
@@ -42,9 +42,16 @@ Create a wireframe that can later be built manually, from a Microsoft infographi
 - 7 minutes — Test the reading path
 - 3 minutes — Save and submit
 
+## Included inputs and assets
+
+- Synthetic CSV and formula-enabled XLSX mock data
+- Editable PowerPoint start and worked-example files
+- PROMPTS.md with copy-ready data-analysis, infographic, Gemini Notebook and text-to-image prompts
+- AI Prompt Lab worksheet for provenance and human-change records
+
 ## Submission
 
-Submit the editable PPTX, completed XLSX, source CSV and checklist. Record any AI tool, prompt, source and material human change.
+Submit the editable PPTX, completed XLSX, source CSV, prompt/source log, used assets and checklist. Record every AI tool, prompt, source, rejected claim and material human change.
 
 ## Debrief
 
