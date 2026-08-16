@@ -18,7 +18,7 @@ Conducted by
 
 UEN: 201200696W
 
-**Version 4.0**
+**Version 4.1**
 
 **DOCUMENT VERSION CONTROL RECORD**
 
@@ -28,6 +28,7 @@ UEN: 201200696W
 | 2.0 | 8 January 2025 | Previous approved Learner Guide release. | Tertiary Infotech Academy Pte Ltd |
 | 3.0 | 15 August 2026 | Rebuilt from the approved v10 deck with current Microsoft infographic-maker and Copilot guidance, eight progressive activities, detailed PowerPoint procedures and editable evidence packs. | Tertiary Infotech Academy Pte Ltd |
 | 4.0 | 16 August 2026 | Added the AI-first data-to-insight-to-infographic workflow, Microsoft 365 Copilot and Gemini Notebook procedures, PowerPoint conversion and comparison, prompt patterns, mock multi-source data, generated practice assets and verification controls. Migrated the package to current course code TGS-2026064178. | Tertiary Infotech Academy Pte Ltd |
+| 4.1 | 16 August 2026 | Removed the obsolete learner portal slide at client direction and synchronized the Learner Guide with the revised 122-slide courseware package. | Tertiary Infotech Academy Pte Ltd |
 
 **TABLE OF CONTENTS**
 

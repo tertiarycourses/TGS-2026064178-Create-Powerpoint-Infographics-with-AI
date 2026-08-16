@@ -2,6 +2,15 @@
 
 This append-only log records material changes to the live courseware package. The PowerPoint cover shows only the current version and date; detailed change control is retained here and in the Learner Guide and Lesson Plan.
 
+## v12.1 — 16 August 2026
+
+- Removed the obsolete learner portal slide at client direction.
+- Regenerated the 122-slide PPTX/PDF and synchronized all downstream slide mappings.
+- Updated the Learner Guide to v4.1, Lesson Plan to v5.1, README, source coverage and QA record.
+- Published the revised package to Google Drive and refreshed the verified LMS-TMS links; superseded live files were retained in archives.
+
+Affected artifacts: course slides, Learner Guide, Lesson Plan, README, source coverage, QA report and publication metadata.
+
 ## v12.0 — 16 August 2026
 
 - Reframed the course around an AI-first, source-grounded workflow: collect, clean, analyse, extract insights, generate, verify, refine in PowerPoint, and release.

@@ -6,7 +6,7 @@ WSQ courseware for **TGS-2026064178**, aligned to **TOU-DAT-4004-1.1-1**.
 
 ## Package
 
-- 123-slide visual PowerPoint deck v12.0 and matching PDF
+- 122-slide visual PowerPoint deck v12.1 and matching PDF
 - Detailed Learner Guide in DOCX and PDF
 - One-day Lesson Plan in DOCX and PDF
 - Eight progressive, self-contained activity folders
