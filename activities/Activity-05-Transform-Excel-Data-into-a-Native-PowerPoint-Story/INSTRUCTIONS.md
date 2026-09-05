@@ -1,6 +1,7 @@
 # Activity 05 — Create a Comparison Data Story with Copilot and PowerPoint
 
 - **Course:** Create Powerpoint Infographics with AI (TGS-2026064178)
+- **Topic 2:** Creating PowerPoint Infographics with AI
 - **Duration:** 45 minutes
 - **Tools:** Microsoft 365 Copilot + Excel + native PowerPoint chart
 - **Output:** Formula-driven workbook, native editable chart and annotated decision slide

@@ -1,6 +1,7 @@
 # Activity 01 — Interpret a Statistical KPI Infographic
 
 - **Course:** Create Powerpoint Infographics with AI (TGS-2026064178)
+- **Topic 1:** AI-Assisted Infographic Planning and Data Insights
 - **Duration:** 35 minutes
 - **Tools:** Microsoft 365 Copilot + Excel + PowerPoint
 - **Output:** Annotated insight slide, editable PPTX and completed checklist

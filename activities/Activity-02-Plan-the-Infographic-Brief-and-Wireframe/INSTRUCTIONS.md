@@ -1,6 +1,7 @@
 # Activity 02 — Design a Comparison Infographic Brief
 
 - **Course:** Create Powerpoint Infographics with AI (TGS-2026064178)
+- **Topic 1:** AI-Assisted Infographic Planning and Data Insights
 - **Duration:** 35 minutes
 - **Tools:** Microsoft 365 Copilot + PowerPoint
 - **Output:** Portrait infographic brief, low-fidelity wireframe and design rationale

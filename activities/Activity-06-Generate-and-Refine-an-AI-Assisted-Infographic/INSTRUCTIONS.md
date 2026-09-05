@@ -1,6 +1,7 @@
 # Activity 06 — Create a Hierarchy Infographic with Microsoft 365 Copilot
 
 - **Course:** Create Powerpoint Infographics with AI (TGS-2026064178)
+- **Topic 2:** Creating PowerPoint Infographics with AI
 - **Duration:** 45 minutes
 - **Tools:** Microsoft 365 Copilot app + PowerPoint
 - **Output:** Two Copilot hierarchy options, comparison scorecard, reviewed editable PowerPoint and prompt/source log

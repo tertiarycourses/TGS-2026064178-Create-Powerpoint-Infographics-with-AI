@@ -18,7 +18,7 @@ Conducted by
 
 UEN: 201200696W
 
-**Version 5.0**
+**Version 5.1**
 
 **DOCUMENT VERSION CONTROL RECORD**
 
@@ -29,6 +29,7 @@ UEN: 201200696W
 | 3.0 | 15 August 2026 | Rebuilt from the approved v10 deck with current Microsoft infographic-maker and Copilot guidance, eight progressive activities, detailed PowerPoint procedures and editable evidence packs. | Tertiary Infotech Academy Pte Ltd |
 | 4.0 | 16 August 2026 | Added the AI-first data-to-insight-to-infographic workflow, Microsoft 365 Copilot and Gemini Notebook procedures, PowerPoint conversion and comparison, prompt patterns, mock multi-source data, generated practice assets and verification controls. Migrated the package to current course code TGS-2026064178. | Tertiary Infotech Academy Pte Ltd |
 | 5.0 | 5 September 2026 | Retitled the course to Create Powerpoint Infographics with AI and added current Microsoft 365 Copilot infographic creation, structured prompting, source upload, brand and orientation choices, PowerPoint refinement, twelve workplace demonstrations and eight distinct infographic-design activities. | Tertiary Infotech Academy Pte Ltd |
+| 5.1 | 5 September 2026 | Aligned the Learner Guide and activities to the three approved topic titles; preserved Copilot prompts, PowerPoint procedures, demonstrations and verification controls. | Tertiary Infotech Academy Pte Ltd |
 
 **TABLE OF CONTENTS**
 
@@ -221,7 +222,7 @@ Review an infographic against observed audience outcomes and the six dimensions 
 | Engagement | Does the visual earn attention without chart junk or decoration? |
 | Business and resource fit | Does it support the decision, channel, budget, workflow and governance needs? |
 
-# LU1 — Introduction to Infographics
+# LU1 — AI-Assisted Infographic Planning and Data Insights
 
 Purpose · Types · Audience · Metrics · Planning · Insight extraction
 
@@ -356,7 +357,7 @@ Use the supplied structured prompt workbook to ask Microsoft 365 Copilot for two
 
 **Debrief standard:** The wireframe communicates objective, hierarchy, evidence, flow, action and source space before visual styling begins.
 
-# LU2 — Create Infographics in PowerPoint
+# LU2 — Creating PowerPoint Infographics with AI
 
 Slide size · Grid · Shapes · Icons · Type · Colour · SmartArt · Charts · AI
 
@@ -617,7 +618,7 @@ Use Microsoft 365 Copilot with the approved strategy note to create two hierarch
 
 **Debrief standard:** The final slide records the prompt, sources and human changes; all claims are verified and the decision evidence remains editable.
 
-# LU3 — Review Infographics
+# LU3 — Evaluating and Presenting Infographics for Business Impact
 
 Story · Context · Simplicity · Coaching · Budget · Effectiveness · Improvement
 

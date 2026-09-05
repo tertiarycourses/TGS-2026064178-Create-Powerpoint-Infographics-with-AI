@@ -1,6 +1,7 @@
 # Activity 03 — Create a Timeline Infographic with Microsoft 365 Copilot
 
 - **Course:** Create Powerpoint Infographics with AI (TGS-2026064178)
+- **Topic 2:** Creating PowerPoint Infographics with AI
 - **Duration:** 40 minutes
 - **Tools:** Microsoft 365 Copilot app + PowerPoint
 - **Output:** Editable template-based portrait infographic plus PDF and JPG exports

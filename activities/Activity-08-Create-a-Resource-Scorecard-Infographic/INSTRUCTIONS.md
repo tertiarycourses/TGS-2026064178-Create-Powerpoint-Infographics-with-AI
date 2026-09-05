@@ -1,6 +1,7 @@
 # Activity 08 — Create a Resource Scorecard Infographic
 
 - **Course:** Create Powerpoint Infographics with AI (TGS-2026064178)
+- **Topic 3:** Evaluating and Presenting Infographics for Business Impact
 - **Duration:** 30 minutes
 - **Tools:** Microsoft 365 Copilot + Excel scorecard + PowerPoint
 - **Output:** Formula-driven scorecard, 12-month resource recommendation and decision slide

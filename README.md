@@ -6,9 +6,9 @@ WSQ courseware for **TGS-2026064178**, aligned to **TOU-DAT-4004-1.1-1**.
 
 ## Package
 
-- 136-slide highly visual PowerPoint deck v13.0 and matching PDF
-- Detailed Learner Guide v5.0 in DOCX, PDF and Markdown
-- One-day Lesson Plan v6.0 in DOCX and PDF
+- 136-slide highly visual PowerPoint deck v13.1 and matching PDF
+- Detailed Learner Guide v5.1 in DOCX, PDF and Markdown
+- One-day Lesson Plan v6.1 in DOCX and PDF
 - Eight progressive, self-contained activity folders with 25 matched Markdown/PDF guides
 - Copy-ready Microsoft 365 Copilot prompts, editable CSV/XLSX evidence and PowerPoint start/sample files
 - Twelve editable workplace infographic demonstrations: statistical, comparison, timeline, process, cycle, funnel, hierarchy, mind map, geographic, before/after, resource scorecard and decision matrix
@@ -18,6 +18,12 @@ WSQ courseware for **TGS-2026064178**, aligned to **TOU-DAT-4004-1.1-1**.
 1. Draw insights from infographics to make data-driven decisions.
 2. Leverage PowerPoint infographics for articulating data insights to stakeholders.
 3. Assess the effectiveness of PowerPoint infographics based on allocated resources in accordance with business goals.
+
+## Topics
+
+1. AI-Assisted Infographic Planning and Data Insights
+2. Creating PowerPoint Infographics with AI
+3. Evaluating and Presenting Infographics for Business Impact
 
 ## Copilot-to-PowerPoint workflow
 
