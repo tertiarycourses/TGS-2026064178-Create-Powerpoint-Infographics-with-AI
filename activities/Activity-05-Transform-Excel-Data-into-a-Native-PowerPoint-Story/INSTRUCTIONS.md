@@ -1,13 +1,13 @@
-# Activity 05 — Use AI Analysis to Build a Native PowerPoint Data Story
+# Activity 05 — Create a Comparison Data Story with Copilot and PowerPoint
 
-- **Course:** Infographics and Data Visualization with PowerPoint (TGS-2026064178)
+- **Course:** Create Powerpoint Infographics with AI (TGS-2026064178)
 - **Duration:** 45 minutes
-- **Tools:** Approved AI assistant + Excel + native PowerPoint chart
+- **Tools:** Microsoft 365 Copilot + Excel + native PowerPoint chart
 - **Output:** Formula-driven workbook, native editable chart and annotated decision slide
 
 ## Objective
 
-Use ai to clean and analyse mock excel data, verify calculations, then create a native editable chart and decision story in powerpoint.
+Use microsoft 365 copilot to analyse approved mock excel data, verify calculations, then create a comparison infographic with a native editable chart in powerpoint.
 
 ## Scenario
 
@@ -18,7 +18,7 @@ Prompt an approved AI assistant to analyse the workbook and propose candidate in
 
 1. **Open and validate the workbook.** Open the A05 XLSX. Review Data, Analysis, Source Notes and AI Prompt Lab. Change one input value and confirm formulas update without errors.
 
-2. **Run the analysis prompt.** Ask an approved AI assistant to flag data-quality issues, compare revenue, growth, margin and returns, calculate candidate metrics and provide citations to the relevant rows. Require no invented values.
+2. **Run the analysis prompt.** Ask Microsoft 365 Copilot to flag data-quality issues, compare revenue, growth, margin and returns, calculate candidate metrics and cite the relevant rows. Require no invented values.
 
 3. **Verify every calculation.** Reproduce the selected growth, totals, averages and comparisons with Excel formulas. Record any rejected AI claim and why.
 
@@ -52,7 +52,7 @@ Prompt an approved AI assistant to analyse the workbook and propose candidate in
 
 - Synthetic CSV and formula-enabled XLSX mock data
 - Editable PowerPoint start and worked-example files
-- PROMPTS.md with copy-ready data-analysis, infographic, Gemini Notebook and text-to-image prompts
+- PROMPTS.md with an activity-specific structured Microsoft 365 Copilot prompt plus analysis, refinement and review prompts
 - AI Prompt Lab worksheet for provenance and human-change records
 
 ## Submission

@@ -1,6 +1,8 @@
 SYNTHETIC TRAINING SOURCE — NOT OPERATIONAL EVIDENCE
 Period: Q2 2026
 
-Retailer A: Customers notice the delivery window but do not always understand the environmental benefit.
-Retailer B: Store teams want one visual that connects route efficiency, EV share and customer experience.
-Retailer C: Any public claim must show the pilot scope and avoid implying full-fleet conversion.
+Executive need: improve service trust.
+Required outcome: faster and clearer issue-recovery updates.
+Defined measure: priority cases resolved within four hours.
+Owner: Customer Operations Director.
+Review cadence: monthly governance meeting.

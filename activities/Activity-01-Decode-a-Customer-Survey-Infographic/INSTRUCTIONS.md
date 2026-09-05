@@ -1,18 +1,18 @@
-# Activity 01 — Use AI to Clean Data and Extract Insights
+# Activity 01 — Interpret a Statistical KPI Infographic
 
-- **Course:** Infographics and Data Visualization with PowerPoint (TGS-2026064178)
+- **Course:** Create Powerpoint Infographics with AI (TGS-2026064178)
 - **Duration:** 35 minutes
-- **Tools:** Approved AI assistant + Excel + PowerPoint
+- **Tools:** Microsoft 365 Copilot + Excel + PowerPoint
 - **Output:** Annotated insight slide, editable PPTX and completed checklist
 
 ## Objective
 
-Use ai to organise and clean approved mock sources, then verify and convert candidate patterns into defensible business insights.
+Interpret a statistical kpi infographic, verify its denominators and convert visible patterns into defensible business decisions.
 
 ## Scenario
 
 Northstar Retail's marketing lead has a one-page customer survey infographic built from 420 synthetic Q2 responses. Leadership wants to know which customer experience deserves further investigation.
-Use an approved AI assistant with the supplied CSV, workbook and source notes to produce a clean analysis and candidate insights. Verify every number in Excel before recommending one next step.
+Use Microsoft 365 Copilot with the supplied approved data summary to propose candidate insights. Verify every number in Excel before recommending one next step.
 
 ## Detailed instructions
 
@@ -20,7 +20,7 @@ Use an approved AI assistant with the supplied CSV, workbook and source notes to
 
 2. **Preserve the raw data.** Save a named working copy. Do not modify or replace the raw CSV; perform cleanup on a separate worksheet or in an approved AI session.
 
-3. **Run the data-cleaning prompt.** Copy the Data analyst prompt from PROMPTS.md. Ask the AI to flag duplicates, missing values, inconsistent labels, units and periods and to describe every proposed transformation. Require no invented values.
+3. **Run the data-cleaning prompt.** Copy the Analyse the evidence prompt from PROMPTS.md into Microsoft 365 Copilot. Ask it to flag duplicates, missing values, inconsistent labels, units and periods and to describe every proposed transformation. Require no invented values.
 
 4. **Verify the cleanup.** Compare the AI response with the raw CSV. Apply only justified changes in the workbook, retain a before/after note and confirm the response count remains 420.
 
@@ -46,7 +46,7 @@ Use an approved AI assistant with the supplied CSV, workbook and source notes to
 
 - Synthetic CSV and formula-enabled XLSX mock data
 - Editable PowerPoint start and worked-example files
-- PROMPTS.md with copy-ready data-analysis, infographic, Gemini Notebook and text-to-image prompts
+- PROMPTS.md with an activity-specific structured Microsoft 365 Copilot prompt plus analysis, refinement and review prompts
 - AI Prompt Lab worksheet for provenance and human-change records
 
 ## Submission

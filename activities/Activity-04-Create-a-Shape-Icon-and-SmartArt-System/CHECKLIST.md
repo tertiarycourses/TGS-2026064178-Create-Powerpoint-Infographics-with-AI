@@ -1,4 +1,4 @@
-# Activity 04 Checklist — Generate Visual Assets and Refine Them in PowerPoint
+# Activity 04 Checklist — Create a Process Infographic with Microsoft 365 Copilot
 
 Name / Group: ____________________    Date: ____________________
 

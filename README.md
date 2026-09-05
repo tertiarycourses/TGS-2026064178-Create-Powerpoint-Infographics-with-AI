@@ -1,4 +1,4 @@
-# Infographics and Data Visualization with PowerPoint
+# Create Powerpoint Infographics with AI
 
 WSQ courseware for **TGS-2026064178**, aligned to **TOU-DAT-4004-1.1-1**.
 
@@ -6,24 +6,26 @@ WSQ courseware for **TGS-2026064178**, aligned to **TOU-DAT-4004-1.1-1**.
 
 ## Package
 
-- 122-slide visual PowerPoint deck v12.1 and matching PDF
-- Detailed Learner Guide in DOCX and PDF
-- One-day Lesson Plan in DOCX and PDF
-- Eight progressive, self-contained activity folders
-- Copy-ready AI prompts, editable mock CSV, formula-enabled Excel and PowerPoint start/sample files in every activity
-- Generated sustainability visual assets and a synthetic multi-source Gemini Notebook practice pack
+- 136-slide highly visual PowerPoint deck v13.0 and matching PDF
+- Detailed Learner Guide v5.0 in DOCX, PDF and Markdown
+- One-day Lesson Plan v6.0 in DOCX and PDF
+- Eight progressive, self-contained activity folders with 25 matched Markdown/PDF guides
+- Copy-ready Microsoft 365 Copilot prompts, editable CSV/XLSX evidence and PowerPoint start/sample files
+- Twelve editable workplace infographic demonstrations: statistical, comparison, timeline, process, cycle, funnel, hierarchy, mind map, geographic, before/after, resource scorecard and decision matrix
 
 ## Learning outcomes
 
 1. Draw insights from infographics to make data-driven decisions.
-2. Use PowerPoint infographics to articulate data insights to stakeholders.
-3. Assess the effectiveness of PowerPoint infographics based on audience outcomes and resource allocation.
+2. Leverage PowerPoint infographics for articulating data insights to stakeholders.
+3. Assess the effectiveness of PowerPoint infographics based on allocated resources in accordance with business goals.
 
-## AI-first infographic workflow
+## Copilot-to-PowerPoint workflow
 
-The package teaches learners to use approved AI tools to collect and organise sources, clean and analyse data, extract candidate insights and generate infographic directions. Learners compare Microsoft 365 Copilot with Gemini Notebook, download a Gemini Notebook Slide Deck as PowerPoint where available or preserve PDF and rebuild critical content, generate supporting visuals with text-to-image prompts, then verify and refine the selected evidence as an editable PowerPoint master.
+Learners ground the task in approved evidence, write a structured prompt, create an infographic in the Microsoft 365 Copilot app, inspect the generated direction, and rebuild or refine decision-critical content as editable PowerPoint objects. Every activity retains source notes, checks claims, applies accessibility and brand controls, and records human approval.
 
-PowerPoint remains the controlled delivery layer for native charts, labels, sources, accessibility, branding and accountable human approval. See [courseware/CHANGELOG.md](courseware/CHANGELOG.md) for version history.
+The activities cover eight different design challenges: statistical KPI interpretation, comparison briefing, timeline, process, comparison data story, hierarchy, stakeholder mind map and resource scorecard.
+
+See [courseware/CHANGELOG.md](courseware/CHANGELOG.md) for version history.
 
 ## Repository boundary
 

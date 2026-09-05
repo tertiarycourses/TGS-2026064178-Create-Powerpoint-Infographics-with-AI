@@ -1,18 +1,18 @@
-# Activity 02 — Prompt an Evidence-Led Infographic Brief
+# Activity 02 — Design a Comparison Infographic Brief
 
-- **Course:** Infographics and Data Visualization with PowerPoint (TGS-2026064178)
+- **Course:** Create Powerpoint Infographics with AI (TGS-2026064178)
 - **Duration:** 35 minutes
-- **Tools:** Approved AI assistant + PowerPoint
+- **Tools:** Microsoft 365 Copilot + PowerPoint
 - **Output:** Portrait infographic brief, low-fidelity wireframe and design rationale
 
 ## Objective
 
-Turn verified insights into a structured ai brief and prompt that controls audience, message, evidence, form and output.
+Turn verified insights into a structured microsoft 365 copilot brief for a comparison infographic that controls audience, message, evidence and output.
 
 ## Scenario
 
 Northstar plans a sustainable-delivery campaign. The communication manager needs a portrait infographic showing the customer journey from order to low-emission delivery.
-Use the supplied prompt workbook to ask AI for two wireframe directions. Select one by evidence fit, then preserve it as the control brief for Microsoft 365 Copilot, Gemini Notebook or PowerPoint.
+Use the supplied structured prompt workbook to ask Microsoft 365 Copilot for two comparison-infographic directions. Select one by evidence fit, then preserve it as the control brief for PowerPoint.
 
 ## Detailed instructions
 
@@ -24,7 +24,7 @@ Use the supplied prompt workbook to ask AI for two wireframe directions. Select 
 
 4. **Write the structured prompt.** Use the prompt anatomy in the workbook: role, audience, objective, approved evidence, hierarchy, format, brand, accessibility, constraints and output.
 
-5. **Request two directions.** Ask the approved AI tool for two low-fidelity wireframe directions. Require labelled content zones, source space and no invented data or imagery.
+5. **Request two directions.** Ask Microsoft 365 Copilot for two low-fidelity comparison-infographic directions. Require labelled content zones, source space and no invented data or imagery.
 
 6. **Score the directions.** Compare both options for question fit, hierarchy, evidence space, reading order, accessibility and ease of PowerPoint refinement.
 
@@ -46,7 +46,7 @@ Use the supplied prompt workbook to ask AI for two wireframe directions. Select 
 
 - Synthetic CSV and formula-enabled XLSX mock data
 - Editable PowerPoint start and worked-example files
-- PROMPTS.md with copy-ready data-analysis, infographic, Gemini Notebook and text-to-image prompts
+- PROMPTS.md with an activity-specific structured Microsoft 365 Copilot prompt plus analysis, refinement and review prompts
 - AI Prompt Lab worksheet for provenance and human-change records
 
 ## Submission

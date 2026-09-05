@@ -1,4 +1,4 @@
-# Activity 03 Checklist — Build from Microsoft Infographic Maker
+# Activity 03 Checklist — Create a Timeline Infographic with Microsoft 365 Copilot
 
 Name / Group: ____________________    Date: ____________________
 

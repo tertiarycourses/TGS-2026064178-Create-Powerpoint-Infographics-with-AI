@@ -1,4 +1,4 @@
-# Activity 08 Checklist — Budget and Effectiveness Decision
+# Activity 08 Checklist — Create a Resource Scorecard Infographic
 
 Name / Group: ____________________    Date: ____________________
 

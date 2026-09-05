@@ -1,28 +1,28 @@
-# Activity 04 — Generate Visual Assets and Refine Them in PowerPoint
+# Activity 04 — Create a Process Infographic with Microsoft 365 Copilot
 
-- **Course:** Infographics and Data Visualization with PowerPoint (TGS-2026064178)
+- **Course:** Create Powerpoint Infographics with AI (TGS-2026064178)
 - **Duration:** 35 minutes
-- **Tools:** Text-to-image AI + PowerPoint
+- **Tools:** Microsoft 365 Copilot app + PowerPoint
 - **Output:** Five-stage process infographic and reusable PowerPoint component library
 
 ## Objective
 
-Use text-to-image prompting to generate a consistent asset set, then combine it with editable powerpoint labels, shapes, connectors and smartart.
+Use microsoft 365 copilot to generate a five-stage process infographic, then rebuild decision-critical labels, shapes, connectors and smartart as editable powerpoint objects.
 
 ## Scenario
 
-Northstar needs an editable five-stage process infographic for store managers. Use the supplied AI-generated sustainability asset sheet or regenerate a new set from the recorded text-to-image prompt.
-Use the images only as supporting visuals. Build all stage names, values, connectors, source labels and decision meaning as editable PowerPoint objects.
+Northstar needs an editable five-stage sustainable-delivery process infographic for store managers. Use the supplied structured Microsoft 365 Copilot prompt and approved synthetic stage data.
+Treat the Copilot output as a design direction. Build all stage names, values, connectors, source labels and decision meaning as editable PowerPoint objects.
 
 ## Detailed instructions
 
-1. **Review the supplied assets.** Open the assets folder and ASSET-MANIFEST.txt. Confirm the files are synthetic training visuals, contain no factual claims and match the recorded prompt.
+1. **Review the source and prompt.** Open the A04 workbook and PROMPTS.md. Confirm the five approved stages, audience, decision, source note and forbidden claims before using Copilot.
 
-2. **Write or adapt the image prompt.** Copy the Text-to-image prompt from PROMPTS.md. Specify the four sustainability subjects, consistent flat style, palette, transparent background, no text, no logo and no watermark.
+2. **Generate the process direction.** In Microsoft 365 Copilot choose Create > Design an infographic. Submit the structured process prompt, add only the approved source content, choose Wide and apply the approved brand colours.
 
-3. **Generate an alternative set.** Use an approved text-to-image tool to create one coherent asset sheet or four separate visuals. Do not upload restricted data or copyrighted reference artwork.
+3. **Inspect before use.** Reject any result with the wrong sequence, invented facts, embedded unreadable text, ambiguous symbols or inconsistent visual grammar. Record the accepted and rejected options.
 
-4. **Inspect before use.** Reject any result with embedded text, distorted objects, inconsistent visual grammar, ambiguous symbols or rights concerns. Record the accepted and rejected results.
+4. **Preserve the original.** Copy or download the selected Copilot output as evidence. Work on a named PowerPoint copy so the generated direction remains available for comparison.
 
 5. **Open the PowerPoint start file.** Save a named working copy, set guides and margins, and insert only the approved assets.
 
@@ -32,7 +32,7 @@ Use the images only as supporting visuals. Build all stage names, values, connec
 
 8. **Add accessibility.** Write purpose-focused alt text for meaningful assets, mark decorative assets where appropriate and preserve direct text labels.
 
-9. **Complete provenance.** Record tool, exact prompt, date, source status, intended use, review result, human changes, reviewer and owner in the workbook and ASSET-MANIFEST.txt.
+9. **Complete provenance.** Record Microsoft 365 Copilot, exact prompt, date, source status, intended use, rejected output, human changes, reviewer and owner in the workbook.
 
 ## Suggested timing
 
@@ -46,7 +46,7 @@ Use the images only as supporting visuals. Build all stage names, values, connec
 
 - Synthetic CSV and formula-enabled XLSX mock data
 - Editable PowerPoint start and worked-example files
-- PROMPTS.md with copy-ready data-analysis, infographic, Gemini Notebook and text-to-image prompts
+- PROMPTS.md with an activity-specific structured Microsoft 365 Copilot prompt plus analysis, refinement and review prompts
 - AI Prompt Lab worksheet for provenance and human-change records
 - assets/ with a generated sustainability asset sheet, four transparent PNGs and ASSET-MANIFEST.txt
 

@@ -1,4 +1,4 @@
-# Activity 01 Checklist — Use AI to Clean Data and Extract Insights
+# Activity 01 Checklist — Interpret a Statistical KPI Infographic
 
 Name / Group: ____________________    Date: ____________________
 

@@ -2,6 +2,18 @@
 
 This append-only log records material changes to the live courseware package. The PowerPoint cover shows only the current version and date; detailed change control is retained here and in the Learner Guide and Lesson Plan.
 
+## v13.0 — 5 September 2026
+
+- Retitled the package to **Create Powerpoint Infographics with AI** and aligned the deck, Learner Guide, Lesson Plan, activities and assessment metadata to TGS-2026064178.
+- Rebuilt the course around the current Microsoft 365 Copilot infographic workflow: Describe, Add content, Brand and colour, Orientation, Create, then Edit or download for accountable PowerPoint refinement.
+- Added the user-supplied cybersecurity-awareness structured prompt to the PPT, Learner Guide and all eight activity prompt PDFs.
+- Added twelve editable workplace demonstration infographics and corrected each visual to encode its claimed relationship, including connected cycle/mind-map views, a regional heat map and a scored decision matrix.
+- Rebuilt eight self-contained learner activities covering statistical, comparison, timeline, process, comparison data story, hierarchy, mind map and resource-scorecard infographics.
+- Updated the assessment package to v4.1 while preserving the registered nine-question WA, three-task PP, mappings and 30-minute durations; candidate papers and trainer-only suggestive answer keys remain separated.
+- Completed visual and structural QA: 136 slides, zero out-of-bounds shapes, zero generic instructional slides, 25 matched activity Markdown/PDF files, eight valid workbooks with 73 formulas, and all four assessment documents passing the rendered three-page verifier.
+
+Affected artifacts: course slides, Learner Guide, Lesson Plan, activities, assessment metadata, README, source coverage and QA record.
+
 ## v12.1 — 16 August 2026
 
 - Removed the obsolete learner portal slide at client direction.

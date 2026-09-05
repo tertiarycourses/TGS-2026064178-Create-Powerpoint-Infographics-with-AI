@@ -1,30 +1,30 @@
-# Activity 03 — Build from Microsoft Infographic Maker
+# Activity 03 — Create a Timeline Infographic with Microsoft 365 Copilot
 
-- **Course:** Infographics and Data Visualization with PowerPoint (TGS-2026064178)
+- **Course:** Create Powerpoint Infographics with AI (TGS-2026064178)
 - **Duration:** 40 minutes
-- **Tools:** Microsoft 365 Copilot infographic maker + PowerPoint
+- **Tools:** Microsoft 365 Copilot app + PowerPoint
 - **Output:** Editable template-based portrait infographic plus PDF and JPG exports
 
 ## Objective
 
-Adapt a microsoft infographic template while preserving hierarchy, editability, brand and evidence.
+Create a timeline infographic in the microsoft 365 copilot app, then preserve hierarchy, editability, brand and evidence in powerpoint.
 
 ## Scenario
 
-Northstar wants a vertical five-stage sustainable-delivery journey for an employee town hall and social post.
-Start from a Microsoft infographic-maker template or the supplied editable sample. Adapt it to the approved wireframe; do not let inherited placeholders define the story.
+Northstar HR needs a five-milestone onboarding timeline for managers: account request, manager plan, Day 1 orientation, Day 7 skills check and Day 30 outcome review.
+Use Microsoft 365 Copilot Create > Design an infographic with the supplied structured prompt and approved brief. Refine the selected Wide timeline in PowerPoint; do not let generated decoration replace dated evidence.
 
 ## Detailed instructions
 
-1. **Open the Microsoft maker.** Open https://powerpoint.cloud.microsoft/create/en/infographic-maker/ in your browser and sign in only with an approved account. If the online maker is unavailable, use the supplied editable start deck.
+1. **Open Microsoft 365 Copilot.** Open the Microsoft 365 Copilot app and sign in only with an approved account. Choose Create > Design an infographic. If the feature is unavailable, use the supplied editable start deck and record the fallback.
 
-2. **Choose by relationship.** Select a process, timeline, roadmap or poster template that matches the approved wireframe. Do not choose only because the colours look attractive.
+2. **Write the timeline prompt.** Copy the structured prompt from PROMPTS.md. Specify five onboarding milestones, the manager audience, the pre-boarding decision, professional style, Wide format and the approved source rule.
 
-3. **Create a working copy.** Open the template in PowerPoint and immediately use File > Save a Copy. Name it A03-<YourName>-Delivery-Journey.pptx.
+3. **Add approved content.** Select +Add content where available and choose only the supplied onboarding brief or workbook. Do not upload personal employee records or restricted files.
 
-4. **Audit every placeholder.** Use Home > Select > Selection Pane. Rename major objects and identify all placeholder text, images, icons, charts, logos and decorative shapes.
+4. **Choose brand and format.** Select Brand and color where available, then choose Wide format for a presentation slide. Keep the approved blue, teal, violet and amber system.
 
-5. **Replace the message.** Insert the approved five-stage delivery content from A03-Build-from-Microsoft-Infographic-Maker-Data.xlsx. Delete any template section that has no role in the story.
+5. **Generate and select.** Select Create, inspect the alternatives and choose the direction with the clearest chronological order. Reject any option with invented dates, labels or outcomes.
 
 6. **Apply the approved style.** Use Design > Variants > Colors and Fonts or apply the supplied palette manually. Keep one heading font, one body font and consistent stage colours.
 
@@ -46,7 +46,7 @@ Start from a Microsoft infographic-maker template or the supplied editable sampl
 
 - Synthetic CSV and formula-enabled XLSX mock data
 - Editable PowerPoint start and worked-example files
-- PROMPTS.md with copy-ready data-analysis, infographic, Gemini Notebook and text-to-image prompts
+- PROMPTS.md with an activity-specific structured Microsoft 365 Copilot prompt plus analysis, refinement and review prompts
 - AI Prompt Lab worksheet for provenance and human-change records
 
 ## Submission

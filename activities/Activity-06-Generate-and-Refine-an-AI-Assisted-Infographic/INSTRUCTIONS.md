@@ -1,43 +1,41 @@
-# Activity 06 — Compare Microsoft 365 Copilot and Gemini Notebook
+# Activity 06 — Create a Hierarchy Infographic with Microsoft 365 Copilot
 
-- **Course:** Infographics and Data Visualization with PowerPoint (TGS-2026064178)
+- **Course:** Create Powerpoint Infographics with AI (TGS-2026064178)
 - **Duration:** 45 minutes
-- **Tools:** Microsoft 365 Copilot + Gemini Notebook + PowerPoint
-- **Output:** Microsoft output, Gemini Notebook infographic and downloaded PPTX or PDF, comparison scorecard, reviewed final slide and prompt/source log
+- **Tools:** Microsoft 365 Copilot app + PowerPoint
+- **Output:** Two Copilot hierarchy options, comparison scorecard, reviewed editable PowerPoint and prompt/source log
 
 ## Objective
 
-Generate the same source-grounded infographic brief in microsoft 365 copilot and gemini notebook, bring the gemini notebook deck into powerpoint through pptx download or a documented pdf rebuild route, and compare both routes before refinement.
+Generate a source-grounded business-goal hierarchy in microsoft 365 copilot and refine it as an accountable editable powerpoint master.
 
 ## Scenario
 
-Northstar wants an executive infographic and short slide narrative summarising the sustainable-delivery pilot from a spreadsheet, policy note and stakeholder feedback summary.
-Run the same verified brief through Microsoft 365 Copilot and Gemini Notebook. Generate a Gemini Notebook Infographic plus Presenter Slides, preserve the deck as PPTX where available or PDF with a documented rebuild route, compare both routes and refine the selected master in PowerPoint.
+Northstar wants an executive hierarchy infographic connecting its service-trust goal to a recovery outcome, a four-hour measure, the customer-operations owner and a monthly review.
+Use Microsoft 365 Copilot with the approved strategy note to create two hierarchy directions. Verify the relationships, then rebuild the selected direction as an editable PowerPoint hierarchy.
 
 ## Detailed instructions
 
-1. **Open the common brief.** Open the A06 workbook, PROMPTS.md and source-pack folder. Complete the audience, objective, approved sources, verified claims, forbidden claims, infographic form, brand and accessibility rules.
+1. **Open the hierarchy brief.** Open the A06 workbook, PROMPTS.md and source-pack folder. Complete the audience, business goal, outcome, measure, owner, review cadence, approved sources and forbidden claims.
 
-2. **Run the Microsoft route.** In the Microsoft 365 Copilot app choose Create > Design an infographic, or use Copilot in PowerPoint. Add the approved file where available, submit the common prompt and save the generated option.
+2. **Run the Copilot route.** In the Microsoft 365 Copilot app choose Create > Design an infographic. Add the approved strategy note where available, submit the hierarchy prompt, choose Wide and apply the approved brand colours.
 
-3. **Run the Gemini Notebook route.** Create a notebook, add only the approved source-pack files and select them. In Studio customise and generate an Infographic using the same audience, focus, style, orientation and evidence constraints.
+3. **Generate two directions.** Request two hierarchy alternatives: a top-down tree and a cascading goal-to-owner flow. Preserve both outputs unchanged as evidence.
 
-4. **Generate Gemini Notebook slides.** In Studio select Slide Deck, choose Presenter Slides, set the language and length and reuse the common prompt. Generate and inspect the deck. Use the three-dot menu to Download PowerPoint (.pptx) when that option is available. If the interface exposes only PDF, download the PDF, keep it as evidence and rebuild decision-critical content as native PowerPoint objects rather than assuming the PDF is fully editable.
+4. **Score the hierarchy.** Use the workbook to score relationship accuracy, source grounding, hierarchy, editability, brand, accessibility and business usefulness.
 
-5. **Preserve originals.** Keep the Microsoft output, Gemini Notebook infographic PNG and downloaded Gemini Notebook PPTX or PDF unchanged as evidence. Work only on named copies.
+5. **Verify every relationship.** Compare every goal, outcome, measure, owner and review statement with the approved source pack. Reject any inferred target or ownership statement that is not supported.
 
-6. **Compare the routes.** Use the Comparison sheet to score source grounding, factual accuracy, citations, hierarchy, visual quality, editability, brand, accessibility, speed and privacy fit.
+6. **Refine in PowerPoint.** Choose the stronger direction. Rebuild decision-critical text, connectors and levels as native objects; apply brand, source footer, alt text and correct reading order.
 
-7. **Verify every claim.** Compare every number, label and relationship with the workbook and source pack. Note that AI-generated infographics and decks may contain factual or visual inaccuracies.
+7. **Test the chain.** Ask a peer to read from goal to review and explain the logic. Revise any ambiguous connector or level, then export PDF and compare it with the editable master.
 
-8. **Refine in PowerPoint.** Choose the stronger direction. Rebuild decision-critical numbers, text, labels and charts as native objects; apply brand, source footer, alt text and correct reading order.
-
-9. **Record ownership.** Complete the prompt/source log with both tools, selected sources, prompts, outputs, rejected claims, human changes, reviewer and final owner.
+8. **Record ownership.** Complete the prompt/source log with selected sources, both Copilot outputs, rejected claims, human changes, reviewer and final owner.
 
 ## Suggested timing
 
 - 7 minutes — Complete the structured prompt
-- 8 minutes — Generate two options
+- 8 minutes — Generate two hierarchy options
 - 10 minutes — Score and verify
 - 15 minutes — Rebuild and check accessibility
 - 5 minutes — Complete log and submit
@@ -46,7 +44,7 @@ Run the same verified brief through Microsoft 365 Copilot and Gemini Notebook. G
 
 - Synthetic CSV and formula-enabled XLSX mock data
 - Editable PowerPoint start and worked-example files
-- PROMPTS.md with copy-ready data-analysis, infographic, Gemini Notebook and text-to-image prompts
+- PROMPTS.md with an activity-specific structured Microsoft 365 Copilot prompt plus analysis, refinement and review prompts
 - AI Prompt Lab worksheet for provenance and human-change records
 - source-pack/ with synthetic metrics, stakeholder feedback, policy extract and source register
 

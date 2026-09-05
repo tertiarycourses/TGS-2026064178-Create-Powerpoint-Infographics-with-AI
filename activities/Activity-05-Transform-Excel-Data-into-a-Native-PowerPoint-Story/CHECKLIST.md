@@ -1,4 +1,4 @@
-# Activity 05 Checklist — Use AI Analysis to Build a Native PowerPoint Data Story
+# Activity 05 Checklist — Create a Comparison Data Story with Copilot and PowerPoint
 
 Name / Group: ____________________    Date: ____________________
 

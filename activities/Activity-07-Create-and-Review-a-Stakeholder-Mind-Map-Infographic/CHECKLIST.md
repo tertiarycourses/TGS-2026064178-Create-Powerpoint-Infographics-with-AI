@@ -1,4 +1,4 @@
-# Activity 07 Checklist — Peer Coaching and Story Review
+# Activity 07 Checklist — Create and Review a Stakeholder Mind Map Infographic
 
 Name / Group: ____________________    Date: ____________________
 

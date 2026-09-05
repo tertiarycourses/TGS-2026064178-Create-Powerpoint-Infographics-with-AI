@@ -1,8 +1,8 @@
-# Activity 08 — Budget and Effectiveness Decision
+# Activity 08 — Create a Resource Scorecard Infographic
 
-- **Course:** Infographics and Data Visualization with PowerPoint (TGS-2026064178)
+- **Course:** Create Powerpoint Infographics with AI (TGS-2026064178)
 - **Duration:** 30 minutes
-- **Tools:** Excel scorecard + PowerPoint
+- **Tools:** Microsoft 365 Copilot + Excel scorecard + PowerPoint
 - **Output:** Formula-driven scorecard, 12-month resource recommendation and decision slide
 
 ## Objective
@@ -11,7 +11,7 @@ Compare infographic-tool investment options and recommend a resource plan using 
 
 ## Scenario
 
-Northstar can fund one standard workflow for 12 staff. Options include PowerPoint templates only, PowerPoint with Copilot, Gemini Notebook with PowerPoint, or a mixed AI workflow with PowerPoint as the controlled final-production layer.
+Northstar can fund one standard workflow for 12 staff. Options include PowerPoint templates only, PowerPoint with Microsoft 365 Copilot, a Copilot-first governed workflow, or a mixed approved workflow with PowerPoint as the controlled final-production layer.
 Use the supplied budget workbook and effectiveness evidence to recommend a 12-month tool, training and governance plan aligned with business outcomes.
 
 ## Detailed instructions
@@ -24,7 +24,7 @@ Use the supplied budget workbook and effectiveness evidence to recommend a 12-mo
 
 4. **Set decision weights.** Use the supplied weights or adjust them with a written rationale. Keep effectiveness and hard governance gates visible.
 
-5. **Score each workflow.** Score PowerPoint templates, PowerPoint + Copilot, Gemini Notebook + PowerPoint and Mixed AI tools + PowerPoint using the same scale and evidence.
+5. **Score each workflow.** Score PowerPoint templates, PowerPoint + Copilot, Copilot-first governed workflow and Mixed approved tools + PowerPoint using the same scale and evidence.
 
 6. **Test hard gates.** Mark any option that fails data handling, rights, editability, accessibility or continuity as Not eligible regardless of weighted score.
 
@@ -48,7 +48,7 @@ Use the supplied budget workbook and effectiveness evidence to recommend a 12-mo
 
 - Synthetic CSV and formula-enabled XLSX mock data
 - Editable PowerPoint start and worked-example files
-- PROMPTS.md with copy-ready data-analysis, infographic, Gemini Notebook and text-to-image prompts
+- PROMPTS.md with an activity-specific structured Microsoft 365 Copilot prompt plus analysis, refinement and review prompts
 - AI Prompt Lab worksheet for provenance and human-change records
 
 ## Submission

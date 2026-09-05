@@ -1,4 +1,4 @@
-# Activity 02 Checklist — Prompt an Evidence-Led Infographic Brief
+# Activity 02 Checklist — Design a Comparison Infographic Brief
 
 Name / Group: ____________________    Date: ____________________
 
