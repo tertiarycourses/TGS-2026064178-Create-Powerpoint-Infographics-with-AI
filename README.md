@@ -6,12 +6,13 @@ WSQ courseware for **TGS-2026064178**, aligned to **TOU-DAT-4004-1.1-1**.
 
 ## Package
 
-- 136-slide highly visual PowerPoint deck v13.1 and matching PDF
-- Detailed Learner Guide v5.1 in DOCX, PDF and Markdown
-- One-day Lesson Plan v6.1 in DOCX and PDF
+- 137-slide highly visual PowerPoint deck v13.2 and matching PDF
+- Detailed Learner Guide v5.2 in DOCX, PDF and Markdown
+- One-day Lesson Plan v6.2 in DOCX and PDF
 - Eight progressive, self-contained activity folders with 25 matched Markdown/PDF guides
 - Copy-ready Microsoft 365 Copilot prompts, editable CSV/XLSX evidence and PowerPoint start/sample files
 - Twelve editable workplace infographic demonstrations: statistical, comparison, timeline, process, cycle, funnel, hierarchy, mind map, geographic, before/after, resource scorecard and decision matrix
+- Secure Microsoft 365 Premium learner-access page with trainer-issued credentials kept out of learner files and public repositories
 
 ## Learning outcomes
 

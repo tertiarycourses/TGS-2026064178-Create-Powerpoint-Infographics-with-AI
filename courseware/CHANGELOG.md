@@ -2,6 +2,14 @@
 
 This append-only log records material changes to the live courseware package. The PowerPoint cover shows only the current version and date; detailed change control is retained here and in the Learner Guide and Lesson Plan.
 
+## v13.2 — 5 September 2026
+
+- Added a visual Microsoft 365 Premium training-access page showing the learner workflow from private account allocation to Copilot infographic creation, download and sign-out.
+- Added aligned Learner Guide procedures and Lesson Plan facilitation notes for shared-account security, approved data use and feature-availability fallback.
+- Kept all usernames and passwords out of the PPT, PDFs, public repository and learner links; credentials remain trainer-issued through a private channel.
+
+Affected artifacts: course slides, Learner Guide, Lesson Plan, README, source coverage, QA report and publication metadata.
+
 ## v13.1 — 5 September 2026
 
 - Replaced the three learning-unit titles with the approved topic structure: **AI-Assisted Infographic Planning and Data Insights**; **Creating PowerPoint Infographics with AI**; and **Evaluating and Presenting Infographics for Business Impact**.

@@ -18,7 +18,7 @@ Conducted by
 
 UEN: 201200696W
 
-**Version 5.1**
+**Version 5.2**
 
 **DOCUMENT VERSION CONTROL RECORD**
 
@@ -30,6 +30,7 @@ UEN: 201200696W
 | 4.0 | 16 August 2026 | Added the AI-first data-to-insight-to-infographic workflow, Microsoft 365 Copilot and Gemini Notebook procedures, PowerPoint conversion and comparison, prompt patterns, mock multi-source data, generated practice assets and verification controls. Migrated the package to current course code TGS-2026064178. | Tertiary Infotech Academy Pte Ltd |
 | 5.0 | 5 September 2026 | Retitled the course to Create Powerpoint Infographics with AI and added current Microsoft 365 Copilot infographic creation, structured prompting, source upload, brand and orientation choices, PowerPoint refinement, twelve workplace demonstrations and eight distinct infographic-design activities. | Tertiary Infotech Academy Pte Ltd |
 | 5.1 | 5 September 2026 | Aligned the Learner Guide and activities to the three approved topic titles; preserved Copilot prompts, PowerPoint procedures, demonstrations and verification controls. | Tertiary Infotech Academy Pte Ltd |
+| 5.2 | 5 September 2026 | Added secure Microsoft 365 Premium training-account access, Copilot infographic launch and sign-out guidance. Credentials remain trainer-issued and are not printed in learner materials. | Tertiary Infotech Academy Pte Ltd |
 
 **TABLE OF CONTENTS**
 
@@ -47,6 +48,17 @@ Before class:
 * Download the complete activities folder from the LMS or GitHub repository.
 * Confirm that every activity folder contains INSTRUCTIONS.md, CHECKLIST.md, PROMPTS.md, CSV, XLSX and PPTX files.
 * Keep the original evidence files unchanged; save a named working copy for each activity.
+
+## Microsoft 365 Premium Training Account Access
+
+The trainer assigns each learner a Microsoft 365 Premium training account through a private credential card or channel. Usernames and passwords are intentionally not printed in this guide, the slide deck or the public learner repository.
+
+* Obtain your assigned account from the trainer, then open https://m365.cloud.microsoft/
+* Sign in with only the account allocated to you and use approved or synthetic activity data.
+* Open Microsoft 365 Copilot, choose Create, select Design an infographic, and enter the prompt from your activity folder.
+* Download and verify your infographic or PowerPoint working file using the activity naming convention.
+* Never change the shared account password, recovery email, security information or multi-factor authentication settings; never share the credentials.
+* When finished, sign out of Microsoft 365 and close the browser. If the infographic option is unavailable, inform the trainer and use the supplied editable PowerPoint starter.
 
 # Learning Outcomes
 
@@ -229,7 +241,7 @@ Purpose · Types · Audience · Metrics · Planning · Insight extraction
 **Key concepts**
 
 * An infographic combines concise text, data, shapes, colour, charts and icons to reveal information and relationships.
-* Chronology, timeline, process, comparison, statistical, mind-map, numerical and hierarchical formats answer different questions.
+* Chronology, timeline, process, comparison, statistical, mind map, numerical and hierarchical formats answer different questions.
 * A Copilot-first workflow gathers approved sources, cleans and analyses data, extracts candidate insights, then routes verified evidence into visual generation.
 * Insight extraction distinguishes what the chart shows, what it means, why it matters and what action is justified.
 
