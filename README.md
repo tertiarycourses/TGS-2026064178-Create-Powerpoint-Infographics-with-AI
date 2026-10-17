@@ -2,11 +2,19 @@
 
 WSQ courseware for **TGS-2026064178**, aligned to **TOU-DAT-4004-1.1-1**.
 
+| Course detail | Information |
+|---|---|
+| Course code | `TGS-2026064178` |
+| Programme | WSQ (CASL) |
+| Duration | 1 day · 8 hours |
+| Registration | [View course details and register](https://www.tertiarycourses.com.sg/casl-create-powerpoint-infographics-with-ai.html) |
+| Funding | Up to 70% course-fee funding (up to 50% for eligible Singapore Citizens and PRs aged 21+, up to 70% for Singapore Citizens aged 40+ or SME-sponsored employees). Eligibility and terms apply. |
+
 ![Courseware cover](screenshot.png)
 
 ## Package
 
-- 137-slide highly visual PowerPoint deck v13.2 and matching PDF
+- 138-slide highly visual PowerPoint deck v13.2 and matching PDF
 - Detailed Learner Guide v5.2 in DOCX, PDF and Markdown
 - One-day Lesson Plan v6.2 in DOCX and PDF
 - Eight progressive, self-contained activity folders with 25 matched Markdown/PDF guides
@@ -37,5 +45,7 @@ See [courseware/CHANGELOG.md](courseware/CHANGELOG.md) for version history.
 ## Repository boundary
 
 This public repository contains learner-facing courseware and activities only. Assessment papers, answer keys, reference material, QA renders, build tooling and environment configuration are deliberately excluded.
+
+Provided by Tertiary Infotech Academy Pte Ltd · UEN 201200696W.
 
 © 2026 Tertiary Infotech Academy Pte Ltd. All rights reserved.
